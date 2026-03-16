@@ -7,3 +7,6 @@
 
 <a href="mailto:buisness@rxfe.xyz"><b>📥 Buisness Email</b></a>
 
+
+<p><b>Projects i've worked on</b></p>
+<a><b href="mailto:buisness@rxfe.xyz">SCP-UI (Secure Copy Protocol UI)</b> A simple Python UI Frontend for the CLI tool scp</a>
